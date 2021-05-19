@@ -1,0 +1,7 @@
+name: AppliedScience
+version: 1.0.0
+main: me.zombie_striker.appliedscience.AppliedScienceMain
+api-version: 1.16
+depend: [CustomItemFramework]
+authors: [ Zombie_Striker ]
+description: Adds science items to minecraft
