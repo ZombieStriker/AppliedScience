@@ -1,0 +1,7 @@
+========== POST GAME STUFF
+= Mine Uranium in the overworld
+= Use Netherite, redstone, and iron to make a magnet
+= Use Magnet to make a generator
+= Once 1.17 comes out, use copper to make wires (for now, substitute it with redstone)
+= Use Wires to make a battery
+=
